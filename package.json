@@ -1,0 +1,31 @@
+{
+    "name": "envytheme",
+    "displayName": "Envy Color Theme",
+    "description": "A Dark Color theme for Microsft's Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "dullptr",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PatrickTorgerson/EnvyColorTheme"
+    },
+    "icon": "images/EnvyLogo-01.png",
+    "engines": {
+        "vscode": "^1.27.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark"
+],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Envy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Envy-color-theme.json"
+            }
+        ]
+    }
+}
