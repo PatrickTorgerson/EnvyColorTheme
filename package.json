@@ -6,7 +6,7 @@
     "publisher": "dullptr",
     "repository": {
         "type": "git",
-        "url": "https://github.com/PatrickTorgerson/EnvyColorTheme"
+        "url": "https://github.com/PatrickTorgerson/EnvyColorTheme.git"
     },
     "icon": "images/EnvyLogo-01.png",
     "engines": {
